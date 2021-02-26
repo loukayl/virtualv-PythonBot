@@ -10,11 +10,11 @@ Please note that this template is not supposed to be the best template, but a go
 If you play to use this template to makw your own template or bot, please give me credits, it would be greatly appreciated.
 
 ## Authors
-* **[Krypton (@kkrypt0nn)](https://github.com/kkrypt0nn)** - The only and one developer
+* **[Lou (@loukayl)](https://github.com/loukayl)** - The only and one developer
 
 ## Support
 
-If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/HzJ3Gfr).
+If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/mq6V6QWtz6).
 
 All the updates of the template are available [here](UPDATES.md).
 
@@ -73,8 +73,8 @@ python bot.py
 
 If you have any issues or questions of how to code a specific command, you can:
 
-* Join my discord server [here](https://discord.gg/HzJ3Gfr)
-* Post them [here](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/issues)
+* Join my discord server [here](https://discord.gg/mq6V6QWtz6)
+* Post them [here](https://github.com/loukayl/virtualv/issues)
 
 Me or other people will take their time to answer and help you.
 
@@ -84,7 +84,7 @@ We use [SemVer](http://semver.org) for versioning. For the versions available, s
 
 ## Bots who used this template
 
-*DM Krypton#7331 to get yourself in this list*
+*DM 𝕷𝖎𝖘𝖆 𝕷𝖔𝖚#8888 to get yourself in this list*
 
 ## License
 
